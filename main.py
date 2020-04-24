@@ -13,7 +13,7 @@ Please introduce two numbers.""")
         print("The result is", n1 * n2)
     elif operation == "/":
         print("The resul is", n1 / n2)
-    elif operation == "Exit or exit":
+    elif operation == "Exit" or "exit":
         print("Leaving the best calculator system of the World ..........")
         break
     else:
